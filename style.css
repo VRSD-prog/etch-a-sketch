@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+}
+
+#size-input {
+    margin-bottom: 30px;
+    width: 60px;;
+}
+
+#main-container {
+    display: flex;
+    border-style: solid;
+    border-radius: 30px;
+    width: 650px;
+    height: 650px;
+}
+
+.row-div {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
