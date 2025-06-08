@@ -13,7 +13,15 @@ form {
 
 #size-input {
     margin-bottom: 30px;
-    width: 60px;;
+    width: 60px;
+}
+
+#color-input {
+    margin-bottom: 30px;
+}
+
+.eraser-button {
+    width: 70px;
 }
 
 #main-container {
